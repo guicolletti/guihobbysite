@@ -14,7 +14,7 @@ import Header from './components/Header.vue'
 import Hero from './components/Hero.vue'
 import About from './components/About.vue'
 import Hobbies from './components/Hobbies.vue'
-import Favoritos from './components/favoritos.vue'
+import Favoritos from './components/Favoritos.vue'
 import Footer from './components/Footer.vue'
 
 export default {
