@@ -46,14 +46,14 @@ export default {
             "Um Pokémon que é sem dúvidas um dos meus favoritos! Tanto por seu design, tanto pela nostalgia. Sem contar sua Mega-Evolução X, que é simplesmente perfeita!"
         },
         {
-          icon: pikachuIcon,
+          icon: umbreonIcon,
           name: "Pikachu",
           type: "Elétrico",
           description:
             "Um pouco quanto clichê, mas ainda sim, não possi negar que ele é um dos meus favoritos, como assisto o anime a muito tempo, a nostalgia tem sua parte na sua classificação no raking, entretando, gosto muito dele!"
         },
         {
-          icon: umbreonIcon,
+          icon: pikachuIcon,
           name: "Umbreon",
           type: "Sombrio",
           description:
