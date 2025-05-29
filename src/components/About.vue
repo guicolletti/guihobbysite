@@ -5,9 +5,8 @@
     </div>
     <div class="about-content">
       <div class="about-text">
-        <h3>Treinador Pokémon desde 1999</h3>
-        <p>Minha aventura no mundo Pokémon começou quando ganhei meu primeiro Game Boy Color e uma cópia de Pokémon
-          Blue. Desde então, capturei, treinei e colecionei centenas de Pokémon através de nove gerações de jogos.</p>
+        <h3>Treinador Pokémon desde 2016</h3>
+        <p>Minha aventura no mundo Pokémon começou quando baixei meu primeiro emulador para GBA, e comecei então com Pokémon Fire & Red. Desde então, capturei, treinei e colecionei centenas de Pokémon através de nove gerações de jogos.</p>
         <p>Como um verdadeiro fã, meu hobby vai além dos jogos principais. Coleciono cartas TCG físicas desde 2002,
           participo de torneios locais, jogo o TCG Online diariamente e acompanho religiosamente a série animada desde o
           primeiro episódio exibido no Brasil.</p>
